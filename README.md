@@ -27,7 +27,7 @@ The results of the models are evaluated using:
 - **SVM (Linear, RBF)**: Achieved varying accuracies depending on the kernel and C values.
 - **Naive Bayes**: Achieved an accuracy of YY% (example).
 
-## How to Use
+## 🚀 How to Use
 1. **Clone the repository**:
   ```bash
   git clone https://github.com/ioannantreki/Logistic-Regression-SVM-Naive-Bayes-Coursework.git
@@ -41,3 +41,6 @@ The results of the models are evaluated using:
 
 4. **Evaluate Results**:
 - Review the printed accuracy scores and confusion matrices in the console.
+
+## ℹ️ Contact
+For any inquiries or collaboration requests, please reach out via GitHub or email at ioannadreki31@gmail.com.
